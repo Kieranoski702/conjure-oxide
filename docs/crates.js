@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["conjure_oxide","minion_rs"];
