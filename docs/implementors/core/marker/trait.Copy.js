@@ -1,3 +1,3 @@
 (function() {var implementors = {
-"minion_rs":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.73.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"enum\" href=\"minion_rs/ast/enum.VarDomain.html\" title=\"enum minion_rs::ast::VarDomain\">VarDomain</a>"]]
+"minion_rs":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.74.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"enum\" href=\"minion_rs/ast/enum.VarDomain.html\" title=\"enum minion_rs::ast::VarDomain\">VarDomain</a>"]]
 };if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
