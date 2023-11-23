@@ -1,0 +1,4 @@
+(function() {var implementors = {
+"conjure_oxide":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.74.0/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"conjure_oxide/ast/struct.Model.html\" title=\"struct conjure_oxide::ast::Model\">Model</a>"]],
+"minion_rs":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.74.0/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"minion_rs/ast/struct.Model.html\" title=\"struct minion_rs::ast::Model\">Model</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
